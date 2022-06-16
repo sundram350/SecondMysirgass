@@ -1,0 +1,19 @@
+Ans ==>1  4.5 or 3.0 or -0.0 are real constants
+
+Ans ==>2  define,this,super,dynamic,is are not keyword in c language
+
+Ans ==>3  variable name not valid ==> 3er,(any datatype like (int, float,char,etc), re#, gde dfe(space not allowed )
+
+Ans ==>4  no
+
+Ans ==>5  is stored in the library
+
+Ans ==>6  Ram 
+
+Ans ==>7   Dennis Ritchie
+
+Ans ==>8  1970
+
+Ans ==>9  Unix Operating system 
+
+Ans ==>10 Both
